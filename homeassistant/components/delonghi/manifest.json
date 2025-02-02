@@ -1,0 +1,12 @@
+{
+  "domain": "delonghi",
+  "name": "DeLonghi",
+  "codeowners": ["@rtfpessoa"],
+  "config_flow": true,
+  "dependencies": [],
+  "documentation": "https://www.home-assistant.io/integrations/delonghi",
+  "iot_class": "cloud_polling",
+  "requirements": [],
+  "ssdp": [],
+  "zeroconf": []
+}

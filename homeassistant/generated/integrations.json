@@ -1160,6 +1160,12 @@
       "integration_type": "virtual",
       "supported_by": "opower"
     },
+    "delonghi": {
+      "name": "DeLonghi Dehumidifier",
+      "integration_type": "device",
+      "config_flow": true,
+      "iot_class": "cloud_polling"
+    },
     "deluge": {
       "name": "Deluge",
       "integration_type": "service",
